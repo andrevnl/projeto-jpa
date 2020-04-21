@@ -11,6 +11,8 @@
 
         <!-- entidade mapeada -->
         <class>br.com.alura.jpa.modelo.Conta</class>
+        <class>br.com.alura.jpa.modelo.Movimentacao</class>
+        <class>br.com.alura.jpa.modelo.Cliente</class>
 
         <properties>
             <!-- dados da conexao -->
